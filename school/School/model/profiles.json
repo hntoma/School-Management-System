@@ -1,0 +1,30 @@
+[
+    {
+        "name": "mim",
+        "uname": "mim01",
+        "type": "admin",
+        "mail": "muhaiminul679@gmail.com",
+        "password": "123"
+    },
+    {
+        "name": "bonna",
+        "uname": "bonna01",
+        "type": "admin",
+        "mail": "bonna@gmail.com",
+        "password": "1234"
+    },
+    {
+        "name": "akhi",
+        "uname": "akhi01",
+        "type": "admin",
+        "mail": "akhi679@gmail.com",
+        "password": "111"
+    },
+    {
+        "name": "tanjid",
+        "uname": "tanjid01",
+        "type": "admin",
+        "mail": "tanjid@gmail.com",
+        "password": "123"
+    }
+]
